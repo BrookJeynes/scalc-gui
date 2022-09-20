@@ -7,6 +7,20 @@
  
 ![Scalc GUI](./assets/readme/scalc-gui-example.png)
 🚧 WIP
+
+## Usage
+1. Navigate into the project directory:
+    ```bash
+    cd scalc-gui
+    ```
+2. Install the module:
+    ```bash
+    npm install
+    ```
+3. Run the command-line tool:
+    ```
+    npm run tauri dev
+    ```
     
 ## Current features:
 
