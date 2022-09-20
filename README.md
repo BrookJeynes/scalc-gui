@@ -6,6 +6,7 @@
 </p>
  
 ![Scalc GUI](./assets/readme/scalc-gui-example.png)
+🚧 WIP
     
 ## Current features:
 
