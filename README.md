@@ -5,7 +5,7 @@
   Just a graphic version of the cli tool under the same name
 </p>
  
-![Scalc GUI](./src/assets/readme/gui.png)
+![Scalc GUI](./src/assets/readme/scalc-gui-example.png)
     
 ## Current features:
 
